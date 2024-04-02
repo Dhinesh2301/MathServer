@@ -30,6 +30,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -128,7 +129,7 @@ def surfacearea(request):
     path('',views.surfacearea,name="areaofsurfaceroot")
 ]
 
-
+```
 
 
 ## SERVER SIDE PROCESSING:
